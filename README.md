@@ -1,6 +1,6 @@
 # Real-time voice assistant using open models
 
-##Live Demo & Audio Samples
+## Live Demo & Audio Samples
 * **Web App:** https://4f5dba4203781.notebooksn.jarvislabs.net/
 
 ## What it does
