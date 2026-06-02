@@ -1,6 +1,7 @@
 # Real-time voice assistant using open models
 
-**Live Demo (Web App):** `https://4f5dba4203781.notebooksn.jarvislabs.net/`
+**Live Demo & Audio Samples
+* **Web App:** https://4f5dba4203781.notebooksn.jarvislabs.net/
 
 ## What it does
 This project is an ultra-low latency, voice-to-voice IT Helpdesk assistant that allows employees to resolve common technical issues (like VPN access, Wi-Fi configuration, or password resets) through natural, spoken conversation. It eliminates the friction of typing out support tickets and provides instant, conversational troubleshooting directly through the browser.
